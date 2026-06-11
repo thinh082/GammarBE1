@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="GammarAPI/GammarAPI.csproj" />
+    <Project Path="GammarApplication/GammarApplication.csproj" />
+    <Project Path="GammarDomain/GammarDomain.csproj" />
+    <Project Path="GammarInfrastructure/GammarInfrastructure.csproj" />
+  </Folder>
+</Solution>

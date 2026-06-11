@@ -1,0 +1,6 @@
+@GammarAPI_HostAddress = http://localhost:5089
+
+GET {{GammarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
