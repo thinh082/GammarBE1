@@ -5,6 +5,7 @@ public sealed record ProfileDetailDto(
     long UserId,
     long ProfileCharacterId,
     string? FullName,
+    string? Phone,
     string? AvatarUrl,
     string? Bio,
     DateOnly? Birthday,
